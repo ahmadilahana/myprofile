@@ -1,0 +1,25 @@
+.nav_header {
+    padding: 1% 0 0 5%;
+    height: auto;
+    width: 94%;
+}
+
+.nav_header_title {
+    font-weight: 1000;
+    font-size: 30px;
+}
+
+.nav_header_menu > div{
+    display: flex;
+    align-items: center;
+    width: auto;
+    padding: 2%;
+}
+
+.nav_header_menu > div:hover{
+    background-color: lightblue;
+    /* border-radius: 25% 25%; */
+    border-radius: 15px 50px;
+    font-weight: bold;
+    text-decoration: underline;
+}
