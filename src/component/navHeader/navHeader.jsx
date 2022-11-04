@@ -9,22 +9,22 @@ const NavHeader = () => {
             </div>
             <div className="nav_header_menu d-flex col-6">
                 <div>
-                    <p className='m-auto'>Home</p>
+                    <p className='m-auto' style={{cursor: "pointer"}}>Home</p>
                 </div>
                 <div>
-                    <p className='m-auto'>About</p>
+                    <p className='m-auto' style={{cursor: "pointer"}}>About</p>
                 </div>
                 <div>
-                    <p className='m-auto'>Experience</p>
+                    <p className='m-auto' style={{cursor: "pointer"}}>Experience</p>
                 </div>
                 <div>
-                    <p className='m-auto'>Skill</p>
+                    <p className='m-auto' style={{cursor: "pointer"}}>Skill</p>
                 </div>
                 <div>
-                    <p className='m-auto'>Project</p>
+                    <p className='m-auto' style={{cursor: "pointer"}}>Project</p>
                 </div>
                 <div>
-                    <p className='m-auto'>Contact</p>
+                    <p className='m-auto' style={{cursor: "pointer"}}>Contact</p>
                 </div>
             </div>
         </div>

@@ -1,0 +1,20 @@
+.bannerMain{
+    width: 100%;
+    height: auto;
+    margin-top: 1%;
+    background-color: #555A64;
+    color: white;
+}
+.bannerImage{
+    height: auto;
+    width: 70%;
+}
+.bannerImage > img{
+    border-top-right-radius: 25%;
+}
+.bannerContent{
+    width: 30%;
+}
+.bannerBody{
+    margin: 10%;
+}

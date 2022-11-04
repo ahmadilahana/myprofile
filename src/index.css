@@ -36,6 +36,13 @@ code {
   flex-direction: column;
 }
 
+.alignItemsCenter{
+  align-items: center;
+}
+.justifyContentsCenter{
+  justify-content: center;
+}
+
 .m-0{
   margin: 0
 }
@@ -45,4 +52,16 @@ code {
 
 .p-0{
   padding: 0;
+}
+
+.textItalic{
+  font-style: italic;
+}
+
+.textAlignRight{
+  text-align: right;
+}
+
+.fontTimesNewRoman{
+  font-family: "Times New Roman", Times, serif;
 }

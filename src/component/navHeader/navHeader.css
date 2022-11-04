@@ -22,4 +22,5 @@
     border-radius: 15px 50px;
     font-weight: bold;
     text-decoration: underline;
+    cursor: pointer;
 }
